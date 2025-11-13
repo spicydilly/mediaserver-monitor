@@ -84,7 +84,7 @@ Regardless of what OS is used for the Raspberry Pi, the following must be instal
 6. Run the following commands while in the root of the cloned repository:
 
     ```sh
-    docker-compose up -d
+    docker compose up -d
     ```
 
 ## References
