@@ -1,4 +1,4 @@
-FROM arm32v7/python:3.11-slim-buster
+FROM arm32v7/python:3.13-slim-buster
 
 # Setting the working directory in the Docker container
 WORKDIR /app/
