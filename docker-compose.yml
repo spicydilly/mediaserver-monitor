@@ -1,6 +1,5 @@
-version: '3'
 services:
-  tautulli-epaper-display:
+  mediaserver-monitor:
     build: .
     restart: unless-stopped
     privileged: true
